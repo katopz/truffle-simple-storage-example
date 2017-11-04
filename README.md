@@ -11,6 +11,11 @@ truffle compile
 truffle develop
 ```
 
+# Test
+```
+truffle test
+```
+
 # Console
 ```
 # Build and Deploy
